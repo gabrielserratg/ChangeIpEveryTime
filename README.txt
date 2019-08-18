@@ -1,10 +1,20 @@
-Escolha um tempo X , E seu ip sera trocado a tempo X
+---------------------------------------------------
+  ______     __  __     __     ______     ______  
+ /\  __ \   /\ \_\ \   /\ \   /\  ___\   /\__  _\ 
+ \ \  __ \  \ \  __ \  \ \ \  \ \  __\   \/_/\ \/ 
+  \ \_\ \_\  \ \_\ \_\  \ \_\  \ \_____\    \ \_\ 
+   \/_/\/_/   \/_/\/_/   \/_/   \/_____/     \/_/ 
 
-X = varible
+---------------------------------------------------
+By GabrielSerraTG
+By Github.com/gabrielserratg
+---------------------------------------------------
 
-não coloque um tempo muito pequeno , pode bugar seu sistema
 
+Escolha um tempo para cada troca de ip!
+Script em Bash
 
+instagram.com/gabrielfernandesserra
 __________________________
 |        SCRIPT BY       |
 |     GabrielSerraTG     |
